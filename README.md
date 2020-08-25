@@ -1,2 +1,2 @@
-# Projet-Deep-learning-avec-CNN-
-Un programme qui permet de faire le reconnaissance  automatique des images
+# Deep learning Project with CNN
+Program that allows the automatic recognition of images.
